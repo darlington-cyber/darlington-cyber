@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#F08080</color>
+    <color name="purple_500">#E9967A</color>
+    <color name="purple_700">#844046</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--here are my additional colors-->
+    <color name="textColor">#844046</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#5F9EA0</color>
+    <color name="ageTextColor">#FFFFFF</color>
+    <color name="ageBackgroundColor">#AFEEEE</color>
+    <color name="dateColor">#778899</color>
+    <color name="lightGreyTextColor">#B7B7B7</color>
+</resources>
